@@ -75,6 +75,6 @@ It can be integrated into financial systems to flag suspicious activities and re
 
 ## 🔗 Google Colab Notebook
 
-👉 [Click here to view the Colab notebook]https://colab.research.google.com/drive/1uqPlzN35chvUUSZxrsCGvktkSqL_k8c8?usp=sharing
+https://colab.research.google.com/drive/1uqPlzN35chvUUSZxrsCGvktkSqL_k8c8?usp=sharing
 
 ---
